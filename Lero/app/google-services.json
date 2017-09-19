@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "495054061425",
+    "firebase_url": "https://lero-10c53.firebaseio.com",
+    "project_id": "lero-10c53",
+    "storage_bucket": "lero-10c53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495054061425:android:08e7096fb6aa9617",
+        "android_client_info": {
+          "package_name": "lero.com.androidstudio.lero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495054061425-nspauog7rp8ddagn9jjphtmf94bfkj95.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lero.com.androidstudio.lero",
+            "certificate_hash": "896293b6c560f74211d24d4f1fe7eb220b9704c1"
+          }
+        },
+        {
+          "client_id": "495054061425-o21g6bbilvjfscm0js2g1n0667ouk6so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTFeNkIW7GgkxjPgrKzgSqhV84lQCY-3g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495054061425-o21g6bbilvjfscm0js2g1n0667ouk6so.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

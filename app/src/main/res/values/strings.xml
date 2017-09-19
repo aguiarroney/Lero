@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Lero</string>
+    <string name="facebook_app_id">679261848926087</string>
+    <string name="fb_login_protocol_scheme">fb679261848926087</string>
+    <string name="escolha_perfil">Escolha seu perfil</string>
+    <string name="artista">Artista</string>
+    <string name="palco">Palco</string>
+    <string name="plateia">Plateia</string>
+    <string name="texto_artista">Se você é um artista a procura de um palco para se apresentar, esta opção foi feita para você!!!</string>
+    <string name="texto_palco">Se você está a procura de um artista para se apresentar no seu estabelecimento, esta opção foi feita para você!!!</string>
+    <string name="texto_plateia">Se está a procura de uma atração artística perto de você, esta é a sua escolha!!!</string>
+    <string name="confirmar">CONFIRMAR</string>
+    <string name="nomeArtistico">Nome Artístico: </string>
+    <string name="nome">Nome: </string>
+    <string name="sobrenome">Sobrenome:</string>
+    <string name="sertanejo">Sertanejo</string>
+    <string name="mpb">MPB</string>
+    <string name="samba">Samba/Pagode</string>
+    <string name="pop">Pop/Rock</string>
+    <string name="estilo">Quais estilos musicais você se interessa?</string>
+    <string name="cache">Quanto é o seu cachê?</string>
+    <string name="bio">Escreva um pouco sobre seu trabalho</string>
+    <string name="nomeEstabelecimento">Nome do estabelecimento: </string>
+    <string name="cnpj">CNPJ: </string>
+    <string name="endereco">Endereço: </string>
+
+</resources>

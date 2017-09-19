@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="lero.com.androidstudio.lero.EscolherPerfil"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:background="@drawable/escolha_perfil">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:layout_marginTop="80dp">
+
+        <!--<TextView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="@string/escolha_perfil"-->
+            <!--android:id="@+id/escolhaPerfilID"-->
+            <!--android:textColor="@color/preto"-->
+            <!--android:textSize="40dp"-->
+            <!--android:layout_marginBottom="20dp"-->
+            <!--android:textAlignment="center"-->
+            <!--android:layout_gravity="center"-->
+            <!--/>-->
+
+
+
+        <RadioGroup
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/radioGroupID">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/texto_artista"
+                android:textColor="@color/preto"
+                android:textSize="20dp"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                />
+
+
+            <RadioButton
+                android:layout_width="145dp"
+                android:layout_height="wrap_content"
+                android:text="@string/artista"
+                android:textColor="@color/preto"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:clickable="true"
+                android:layout_marginBottom="20dp"
+                android:checked="true"
+                android:id="@+id/CheckBoxArtistaID" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/texto_palco"
+                android:textColor="@color/preto"
+                android:textSize="20dp"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                />
+
+
+            <RadioButton
+                android:layout_width="145dp"
+                android:layout_height="wrap_content"
+                android:text="@string/palco"
+                android:textColor="@color/preto"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:clickable="true"
+                android:layout_marginBottom="20dp"
+                android:checked="true"
+                android:id="@+id/CheckBoxPalcoID" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/texto_plateia"
+                android:textColor="@color/preto"
+                android:textSize="20dp"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                />
+
+
+
+            <RadioButton
+                android:layout_width="145dp"
+                android:layout_height="wrap_content"
+                android:text="@string/plateia"
+                android:textColor="@color/preto"
+                android:textAlignment="center"
+                android:layout_gravity="center"
+                android:clickable="true"
+                android:layout_marginBottom="20dp"
+                android:checked="true"
+                android:id="@+id/CheckBoxPlateiaID" />
+
+
+
+        </RadioGroup>
+
+
+        <!--<Button-->
+            <!--android:id="@+id/botaoConfirmarID"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="@string/confirmar"-->
+            <!--android:layout_gravity="center"-->
+            <!--android:onClick="salvarNoBD"-->
+            <!--android:clickable="true" />-->
+
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/botao_prx"
+            android:clickable="true"
+            android:onClick="escolherCategoriaUsuario"
+            android:layout_gravity="center"/>
+
+
+    </LinearLayout>
+
+</RelativeLayout>
