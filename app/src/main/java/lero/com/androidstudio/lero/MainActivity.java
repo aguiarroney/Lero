@@ -4,9 +4,13 @@ package lero.com.androidstudio.lero;
 import android.app.Activity;
 import android.app.Fragment;
 import android.content.Intent;
+import android.content.pm.PackageInfo;
+import android.content.pm.PackageManager;
+import android.content.pm.Signature;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.v4.app.FragmentActivity;
+import android.util.Base64;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -18,6 +22,8 @@ import com.facebook.AccessToken;
 import com.facebook.CallbackManager;
 import com.facebook.FacebookCallback;
 import com.facebook.FacebookException;
+import com.facebook.GraphRequest;
+import com.facebook.GraphResponse;
 import com.facebook.login.LoginResult;
 import com.facebook.login.widget.LoginButton;
 import com.google.android.gms.auth.api.Auth;
@@ -43,6 +49,12 @@ import com.google.firebase.auth.GoogleAuthProvider;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import java.security.MessageDigest;
+import java.security.NoSuchAlgorithmException;
+
 
 public class MainActivity extends FragmentActivity {
 
@@ -57,8 +69,26 @@ public class MainActivity extends FragmentActivity {
     private boolean autenticacaoFacebook = true;
 
 
+
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        try {
+            PackageInfo info = getPackageManager().getPackageInfo(
+                    getPackageName(),
+                    PackageManager.GET_SIGNATURES);
+            for (Signature signature : info.signatures) {
+                MessageDigest md = MessageDigest.getInstance("SHA");
+                md.update(signature.toByteArray());
+                Log.d("KeyHash:", Base64.encodeToString(md.digest(), Base64.DEFAULT));
+            }
+        }
+        catch (PackageManager.NameNotFoundException e) {
+
+        }
+        catch (NoSuchAlgorithmException e) {
+
+        }
 
         setContentView(R.layout.activity_main);
         mAuth = FirebaseAuth.getInstance();
@@ -101,6 +131,31 @@ public class MainActivity extends FragmentActivity {
             public void onSuccess(LoginResult loginResult) {
                 Log.d("Mensagem de sucesso \n", "facebook:onSuccess:" + loginResult);
                 //Toast.makeText(MainActivity.this, "DEU BUENO", Toast.LENGTH_SHORT).show();
+                GraphRequest request = GraphRequest.newMeRequest(loginResult.getAccessToken(),
+                        new GraphRequest.GraphJSONObjectCallback() {
+
+                            @Override
+                            public void onCompleted(JSONObject object, GraphResponse response) {
+
+                                try {
+                                    String fbUID = object.getString("id");   //FaceBook User ID
+                                    String sobrenome = object.getString("last_name");
+                                    String  nome = object.getString("first_name");
+
+                                    //Toast.makeText(MainActivity.this, fbUID, Toast.LENGTH_LONG).show();
+                                    //Toast.makeText(Login.this, sobrenome, Toast.LENGTH_LONG).show();
+
+                                } catch (JSONException e) {
+                                    e.printStackTrace();
+                                }
+                            }
+                        });
+
+                Bundle parameters = new Bundle();
+                parameters.putString("fields", "id, first_name, last_name");
+                request.setParameters(parameters);
+                request.executeAsync();
+
                 handleFacebookAccessToken(loginResult.getAccessToken());
             }
 

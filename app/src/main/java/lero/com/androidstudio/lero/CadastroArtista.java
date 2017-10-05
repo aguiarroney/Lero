@@ -70,10 +70,19 @@ public class CadastroArtista extends Activity{
 //                raiz.child(idUsuario).child("categoria").setValue(categoria);
 //                raiz.child(idUsuario).child("bio").setValue(bioString);
 //                raiz.child(idUsuario).child("cache").setValue(cacheString);
+
+                telaPrincipal(idUsuario);
             }
         });
     }
 
-
+    public void telaPrincipal(String idUsuario){
+        Intent i = null;
+        Bundle bundle = new Bundle();
+        bundle.putString("UID",idUsuario);
+        i = new Intent(CadastroArtista.this,TelaPrincipal.class);
+        i.putExtras(bundle);
+        startActivity(i);
+    }
 
 }

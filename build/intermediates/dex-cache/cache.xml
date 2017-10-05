@@ -2,13 +2,13 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/home/roney/.android/build-cache/8afd06e8d233a580393cf217c35b6a010c933120/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/7c71dfd23bfd39e7f5ded145cf7d43a5d3c9eb9a/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
-        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_4ed2805de69fcfa3b88576729e3ba097a11c15ea.jar" />
+        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_df4ba8d0015708dfafb4d578896027b28007fe22/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -18,6 +18,15 @@
         revision="25.0.2"
         sha1="a76a6983a23788b3689524d4bed763955afbd306">
         <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_1669f25f57c186fc47ccdf6eb65ae27498b285c7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/e7ef71fbac341259ac7b3caabd779ffb9e71fb77/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_404ce7ea88ca2b5c3a5620bbea5be554e2680267/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -38,31 +47,22 @@
         <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_f09784b1973bda6b329b5715724bea6a2bed6dd4.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/roney/.android/build-cache/c8ab1c00876d7a956e4fec204f71c2dfe80367c4/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/97d61d27a26b7a4d9a29601a0f634ae98161fab4/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
-        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_fb4b896982353da9a09691b4bf55c9ea81fbc753.jar" />
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_22c2ca983e451df37142ead0b55f8e483014fd5d/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/roney/.android/build-cache/2072508943a492677f4ced5b79bee10d58151412/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/d2c8b2f2cb1a9a7ccd6edadc5d67a3015788f2d9/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
-        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_3572cdab9a3560e6aece965c9cfc96882b708a89.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/roney/.android/build-cache/ae279f8983506f01d89f128ede9c573321157559/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="dfcba20b85ef3669a8ced0a8760a6df281cbd7c7">
-        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_17024840a1ccfe5159381e3efd751336f6a4cfe3.jar" />
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_96d49a7ae9c80a7f57f723d30f80fd1164d4c807/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -72,6 +72,24 @@
         revision="25.0.2"
         sha1="526f4b02f1771fa7607ff1b89fe2e9bd0344fee8">
         <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_a23e1b54e6c4c6dc92b0ec64257ab7bef4c2515f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/59027e7ecfeb3bddbb408cc5c52d44027960df6d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="babb25794a7599069d34705038744c5760a9a88c">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_55f03929cba2abcc608a5e86624d9cdf8b611949/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db73fdddf5395e996cab04efbf1ccf9a419d3138">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_eb84e90fd262ebfa600fb3b486ce2c744f210743/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -92,22 +110,85 @@
         <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_3bf6e3bbb71187e7c732d5ec9574855a7e02e8df.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/roney/.android/build-cache/4e5b786182a2deec3d3421701bd4919a8360955d/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/513f64c1bc89687ca954b2a9c614ea75ed28ba3f/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
-        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_d5c69c58b746d25c7568a2e61e32222586da045b.jar" />
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab1bd1ebca8bb5792a472c0395c03e56b0e8feb8/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/roney/.android/build-cache/4c48d8076a8d3a4ca5ed5564726dd795dd40db0b/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/194517249ec883393a6ec1b9ebbb5b524a958356/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
-        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_2fd2914396c0262ad5eef497c3ec6a566f903414.jar" />
+        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_05a1f12cf125874f41d4ea048ee4444e1f481565/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/a5d17a095a2ca752ddd78cf04252bc3b236e3638/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf2c4e6607c77b0e671dc5ca252c5ea0d9c1ce0d">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5ce8d4fdf4fac8fb1eb71f8655e6b10ca4145009/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/e0e667028a8b5a89176e4b63e6732de7d2728d0a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518adc52081d41724932b41bc132e4d50a352b86">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e2596cabd06b463968759f647c384b68c1fd6e14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/99d1d3c700ead54f6eb0579ec083bd9127923b3b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ebae43cd06058e99e08c8b4d305b72f2b9927c6">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_01331ff529ce4d5b93200aeba6abb6d340417652/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/dd3ea714e18dfad282b120552cea24c5937217e9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d39fec4ce94df15671275dfc7e43f5568df2dca9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/931a97d37c790305336f75aafa61ed7bba58f9bc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="252896ce41f2a84a2849e29235e66098be7d12ee">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bad2677e2c4975aa649ba441fa8f72a75d9b22ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/2ce2eb9e65e7bf03c80c2dde592053c210fda755/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9a0c96cb2e74d3a6e692d920c9e03326e77f6429">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_02f3ae89dd4c3ce5349b7be249c624c437939858/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/70156a9646d76fec69764e2e28f580dcf75832b5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a63b38c86493972054f694ee08f9f361cd9cca91/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -128,13 +209,13 @@
         <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_e100417f14bbbce1567159ae4b7b0e5e9b3e5a8f.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/roney/.android/build-cache/f9e0acf9632478b32d4b1cfd08228cc6d11694a2/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/e06c37edcedf03663fef539634aa771795f05160/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
-        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_b601ea9a05aa13c313448994e44cf6f0562106ed.jar" />
+        sha1="cdddf21e0a8205e9955661061d1735ed10e44a7b">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6567b7d6d9c1b996e42709fde6205b164effa78b/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -146,13 +227,22 @@
         <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_d1b6ac7d0d283ed932f36ff4d2e36a925cdee104.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/roney/.android/build-cache/71710fd67d6eccc196c9a9bc9c438feee8708a55/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/fdc874ba9496817819e914c8cd75f1eb870f7771/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
-        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_66b1882c56cfb013f1a33b84da62b749713b5bb1.jar" />
+        sha1="9c0cf3d4f9d7d076f301e110b92e18ae23da12c2">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_41dc0ba662d68eda965e2c5ec8d9b4b48fc1a0ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/efd76e1e153f5030a5fdb8f51ac622111e9d2165/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a6d9ccf83c267219d18f1d73eba31f9f8ee29ef2/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -182,40 +272,31 @@
         <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_83a192dd8b5d018628687648d7e089bbf37806c2.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/roney/.android/build-cache/49195183719c46cc8a8d2b932c8c50796e892d3a/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/584a609b870495c97fc9593b88282319139f7071/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_4525eae64c8a1fece48760004186782af2884818.jar" />
+        sha1="c828add497d2b7a3de7c047bf72050cd4b7521a1">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b51511000d434b4b042a96097c024c0b709292e4/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/roney/.android/build-cache/3629705b383bd235fc074f4aeae3cc2354ca3f1f/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/4aaf9cebcca689c6d40b8731995ab0aa5c26d2d7/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
-        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_9285fed55740d05cb812ba6834d787bb2b1725c9.jar" />
+        sha1="90be14317e3f26d18438e8dbf8544500d1dfe07f">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_87d51672ab6742affe10bf0bfe1ef30fd836faea/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/roney/.android/build-cache/ad563c01c9650c0f9c57c424752cab2b0575855b/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/c0fe09e125bdd01ce7f82bb77e822375abbf316b/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="ff9be0a1e75a21c372735930d8987a55b5e6065f">
-        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_c5828c5918f73bf00f2dd6d119ca5dbf486507e5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/roney/.android/build-cache/6e7021153d1c1e1eb118a9a163b0b40bc29f418a/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
-        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_35c90d153dce04df3b8105ed4212538af0d50366.jar" />
+        sha1="d45c048bb1c55cf963899190e507065aea8e5be9">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bd024187c53fab7bd6dc46cdd83337b585f5dfb5/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -228,15 +309,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/roney/.android/build-cache/e7ef71fbac341259ac7b3caabd779ffb9e71fb77/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
-        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_404ce7ea88ca2b5c3a5620bbea5be554e2680267.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/roney/.android/build-cache/7c71dfd23bfd39e7f5ded145cf7d43a5d3c9eb9a/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -245,13 +317,22 @@
         <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_df4ba8d0015708dfafb4d578896027b28007fe22.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/roney/.android/build-cache/1f659d6376f34093eaf31fb0de10e1d136cd5bbb/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/8afd06e8d233a580393cf217c35b6a010c933120/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="0e0e0681c26a1f575d3e4c542182dd59bab75fd6">
-        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_9890caf24d9fc4e885058fb145443146248277b0.jar" />
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ed2805de69fcfa3b88576729e3ba097a11c15ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/14db67794e344a4115657cd1defa9176e7ddbbe9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1810ae0df0a1b9b539ce97df54e96f2bf8f5ff94">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_33f4177e3d2c98ce82f51fb7f26462f401b24158/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -263,6 +344,15 @@
         <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_22c2ca983e451df37142ead0b55f8e483014fd5d.jar" />
     </item>
     <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/2072508943a492677f4ced5b79bee10d58151412/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3572cdab9a3560e6aece965c9cfc96882b708a89/classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="/home/roney/.android/build-cache/59027e7ecfeb3bddbb408cc5c52d44027960df6d/output/jars/classes.jar"
         jumboMode="false"
@@ -270,6 +360,15 @@
         revision="25.0.2"
         sha1="babb25794a7599069d34705038744c5760a9a88c">
         <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_55f03929cba2abcc608a5e86624d9cdf8b611949.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/7dfa99b423b72c6a24a097890857416882e9cec7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="526f4b02f1771fa7607ff1b89fe2e9bd0344fee8">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a23e1b54e6c4c6dc92b0ec64257ab7bef4c2515f/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -290,31 +389,22 @@
         <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/core-3.3.0_42f689ed2ffff74add63286d72392df4a9288ba9.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/roney/.android/build-cache/dab95ac856c18d5cf32d8a780c626e54264965f5/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/4e5b786182a2deec3d3421701bd4919a8360955d/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_c06a4493cc7a610b9b7213818273b9f6f1dcf42f.jar" />
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5c69c58b746d25c7568a2e61e32222586da045b/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/roney/.android/build-cache/a359dc17a4a0dc38cf03b0ada77d621a650ed97f/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/4c48d8076a8d3a4ca5ed5564726dd795dd40db0b/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
-        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_4301296fba756eff1bf8450f73af24dc2b3defe4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/roney/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
-        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_97dd040a925cdd1fe855adaeb1e2462ada772893.jar" />
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2fd2914396c0262ad5eef497c3ec6a566f903414/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -326,58 +416,13 @@
         <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_70a2724e21804bdb7305cdeb5fdf501d6e81470b.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/roney/.android/build-cache/6678d59b2b94068781ef2bae5ab3bb9db6603111/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/793ac2c33d72ae8bf1451052f24f36eb9da4d48a/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_a91e71de56891dc76f330edc2169d17056cb2338.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/roney/.android/build-cache/e475c7c80139f09dc04510483419fa6104e5beb8/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a53ac0560ab915a02c50d2e5c7b003381e6fb5e3">
-        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_b382cd31eb98a9a645dd0872177c56e6be773285.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/roney/.android/build-cache/dd3ea714e18dfad282b120552cea24c5937217e9/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
-        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_d39fec4ce94df15671275dfc7e43f5568df2dca9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/roney/.android/build-cache/513f64c1bc89687ca954b2a9c614ea75ed28ba3f/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
-        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_ab1bd1ebca8bb5792a472c0395c03e56b0e8feb8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/roney/.android/build-cache/194517249ec883393a6ec1b9ebbb5b524a958356/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
-        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_05a1f12cf125874f41d4ea048ee4444e1f481565.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/roney/.android/build-cache/acc2fdfb837020545de688f20c8afebb42f7fb84/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
-        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_48170270dd4833d6db262f5d3160960111c07b2c.jar" />
+        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f99450a1477760f34f276f51c42b9fb94fc5cd30/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -389,22 +434,13 @@
         <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_01331ff529ce4d5b93200aeba6abb6d340417652.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/roney/.android/build-cache/a5d17a095a2ca752ddd78cf04252bc3b236e3638/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/dd7b4cd0063a7d05b784858c90979e9b6f70ef55/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="cf2c4e6607c77b0e671dc5ca252c5ea0d9c1ce0d">
-        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_5ce8d4fdf4fac8fb1eb71f8655e6b10ca4145009.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/roney/.android/build-cache/e0e667028a8b5a89176e4b63e6732de7d2728d0a/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="518adc52081d41724932b41bc132e4d50a352b86">
-        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_e2596cabd06b463968759f647c384b68c1fd6e14.jar" />
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3bf6e3bbb71187e7c732d5ec9574855a7e02e8df/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -416,13 +452,31 @@
         <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_6567b7d6d9c1b996e42709fde6205b164effa78b.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/roney/.android/build-cache/70156a9646d76fec69764e2e28f580dcf75832b5/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
-        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_a63b38c86493972054f694ee08f9f361cd9cca91.jar" />
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3933cbb01a6d839315faea891f592391cb91480e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/8da3f2ced5265aa0d6efae20c2c7fb68e12ebe9b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e100417f14bbbce1567159ae4b7b0e5e9b3e5a8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/71710fd67d6eccc196c9a9bc9c438feee8708a55/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_66b1882c56cfb013f1a33b84da62b749713b5bb1/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -453,15 +507,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/roney/.android/build-cache/793ac2c33d72ae8bf1451052f24f36eb9da4d48a/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
-        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_f99450a1477760f34f276f51c42b9fb94fc5cd30.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/roney/.android/build-cache/7486b39d0f951e5f63e35e5d6c63988853f441fc/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -489,15 +534,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/roney/.android/build-cache/3dde1fe89be463dde2560f51f839f9054f884d80/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_697453689c56a1e1ca555a27f937b75ec0470555.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/roney/.android/build-cache/8746e319e4f7ad1f5b623a70cf87008a8b92ab34/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -506,31 +542,13 @@
         <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_f3efb088104252effeb3b0e34cb436c4041c8cd0.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/roney/.android/build-cache/4aaf9cebcca689c6d40b8731995ab0aa5c26d2d7/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/719a2b6e6fefc57a60f0be65264f1923dd91a392/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="90be14317e3f26d18438e8dbf8544500d1dfe07f">
-        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_87d51672ab6742affe10bf0bfe1ef30fd836faea.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/roney/.android/build-cache/cc7da4698ccda1e14c25e678347e23952beba06e/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_5b57624273a9a629c6b4ea7d6f8f2bc6685fed18.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/roney/.android/build-cache/a978502ed992012e5de04d4205d63fc7e806436f/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_f01dbeb2633c5430c6d89fd1f51b94f2be0dd631.jar" />
+        sha1="2482bfd874e8b3927f4141105674ad392ff83698">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_de8aaf59aa8ea6a76a94d6e1ea55289dfd247206/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -570,6 +588,519 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/roney/.android/build-cache/785ad6a26d0d509005aeeea779b07a482ab622f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f0e96478ca3147bc588aadb9ae467d85b42473cc">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_a4a34ca44d414074656c8863028f265aa28c8c40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/roney/.android/build-cache/8afd06e8d233a580393cf217c35b6a010c933120/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_4ed2805de69fcfa3b88576729e3ba097a11c15ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/roney/.android/build-cache/c8ab1c00876d7a956e4fec204f71c2dfe80367c4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_fb4b896982353da9a09691b4bf55c9ea81fbc753.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/roney/.android/build-cache/2072508943a492677f4ced5b79bee10d58151412/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_3572cdab9a3560e6aece965c9cfc96882b708a89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/roney/.android/build-cache/ae279f8983506f01d89f128ede9c573321157559/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dfcba20b85ef3669a8ced0a8760a6df281cbd7c7">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_17024840a1ccfe5159381e3efd751336f6a4cfe3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/1f659d6376f34093eaf31fb0de10e1d136cd5bbb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e0e0681c26a1f575d3e4c542182dd59bab75fd6">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9890caf24d9fc4e885058fb145443146248277b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/a359dc17a4a0dc38cf03b0ada77d621a650ed97f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4301296fba756eff1bf8450f73af24dc2b3defe4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/de9e4c18529bdae3e30617a9ca3db79cc9b8bb05/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_391cf94c2f7a3f7f9ef9e2c895d7cf66b316b8d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/roney/.android/build-cache/4e5b786182a2deec3d3421701bd4919a8360955d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_d5c69c58b746d25c7568a2e61e32222586da045b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/e475c7c80139f09dc04510483419fa6104e5beb8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a53ac0560ab915a02c50d2e5c7b003381e6fb5e3">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b382cd31eb98a9a645dd0872177c56e6be773285/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/roney/.android/build-cache/4c48d8076a8d3a4ca5ed5564726dd795dd40db0b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_2fd2914396c0262ad5eef497c3ec6a566f903414.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/77fec51d515e7620960782a4120e599036c9ab4b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b8b26b28aae0ba8e2db55ad9fe0ebc770530c5ef">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0e1774297221a6aac3815921db036e7d83e49e64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/acc2fdfb837020545de688f20c8afebb42f7fb84/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_48170270dd4833d6db262f5d3160960111c07b2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/d6807b383af0a80d8ccb0a418ba0aa116a96abc2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc9ea2bc291bbebc83f5b160d115c699bddc4e16">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5a29b721ac561b284ad0e6b0b8d5e5b1c67d254/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/roney/.android/build-cache/f9e0acf9632478b32d4b1cfd08228cc6d11694a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_b601ea9a05aa13c313448994e44cf6f0562106ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/roney/.android/build-cache/71710fd67d6eccc196c9a9bc9c438feee8708a55/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_66b1882c56cfb013f1a33b84da62b749713b5bb1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/7ed2751c133c69cb02237a691b4cb73f6e2018f5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_40ae08e2a897761049a4f7a1045b761daa794b63/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/roney/.android/build-cache/49195183719c46cc8a8d2b932c8c50796e892d3a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_4525eae64c8a1fece48760004186782af2884818.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.3.0_42f689ed2ffff74add63286d72392df4a9288ba9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/roney/.android/build-cache/3629705b383bd235fc074f4aeae3cc2354ca3f1f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_9285fed55740d05cb812ba6834d787bb2b1725c9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/64432f2aec0958c0a6d5beed67ffecb2c4f92d2f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0cae6511c5705869cacf199f8abb0ea84cd10157">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_207aba4b55efc728a2e6955316afa18c4946a116/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/roney/.android/build-cache/ad563c01c9650c0f9c57c424752cab2b0575855b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ff9be0a1e75a21c372735930d8987a55b5e6065f">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_c5828c5918f73bf00f2dd6d119ca5dbf486507e5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/af8f1ca3e6c719c6366ee3877fc11e1c3f620c0e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53e8932b1ac8c7dfc35cfeda1f9efbc9822ceaf3">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8a452a6f3db650436adc28d8f3ec554dd9f18dae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/785ad6a26d0d509005aeeea779b07a482ab622f2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f0e96478ca3147bc588aadb9ae467d85b42473cc">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a4a34ca44d414074656c8863028f265aa28c8c40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/114684d4e55e6baf0896e4bfa1c20522ada75fdb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a136366045678579300d161de97c2211c4c4f7a0">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d74131c1c9248044eb9915de316a30c6932167a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/2108f13e5e252f9e0744954a961121851fca8498/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_241b5a0332583216247ced3f1761873137b6fa4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/roney/.android/build-cache/6e7021153d1c1e1eb118a9a163b0b40bc29f418a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_35c90d153dce04df3b8105ed4212538af0d50366.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/roney/.android/build-cache/e7ef71fbac341259ac7b3caabd779ffb9e71fb77/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_404ce7ea88ca2b5c3a5620bbea5be554e2680267.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/b7c6df36a2237125960144f3e32a80a18a7ce1b2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e6671d8c3b2b6398c1d28e72d8ce06c5c51be68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/111a8ad7de4e144a6cb5194fd02346bf288dcbeb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6aa7c76cbaa867e05dbad0afab1ef0e65c4e55f">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f09784b1973bda6b329b5715724bea6a2bed6dd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/ae279f8983506f01d89f128ede9c573321157559/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dfcba20b85ef3669a8ced0a8760a6df281cbd7c7">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_17024840a1ccfe5159381e3efd751336f6a4cfe3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/ce08f5a6f1e5b2696d94698f53d85d99c40d1107/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a76a6983a23788b3689524d4bed763955afbd306">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1669f25f57c186fc47ccdf6eb65ae27498b285c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/roney/.android/build-cache/1f659d6376f34093eaf31fb0de10e1d136cd5bbb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e0e0681c26a1f575d3e4c542182dd59bab75fd6">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_9890caf24d9fc4e885058fb145443146248277b0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/965d8c0ae101490e51d7361f302a2ebb993a0aee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d394688dd7030b83dea8eed3fa483410c24afe0">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_41656938f9546b44c251dcee0a7f4ab56641f066/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/roney/.android/build-cache/dab95ac856c18d5cf32d8a780c626e54264965f5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_c06a4493cc7a610b9b7213818273b9f6f1dcf42f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/roney/.android/build-cache/a359dc17a4a0dc38cf03b0ada77d621a650ed97f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_4301296fba756eff1bf8450f73af24dc2b3defe4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/roney/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_97dd040a925cdd1fe855adaeb1e2462ada772893.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/roney/.android/build-cache/6678d59b2b94068781ef2bae5ab3bb9db6603111/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_a91e71de56891dc76f330edc2169d17056cb2338.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/roney/.android/build-cache/e475c7c80139f09dc04510483419fa6104e5beb8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a53ac0560ab915a02c50d2e5c7b003381e6fb5e3">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_b382cd31eb98a9a645dd0872177c56e6be773285.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/c8ab1c00876d7a956e4fec204f71c2dfe80367c4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fb4b896982353da9a09691b4bf55c9ea81fbc753/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/roney/.android/build-cache/dd3ea714e18dfad282b120552cea24c5937217e9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_d39fec4ce94df15671275dfc7e43f5568df2dca9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/roney/.android/build-cache/513f64c1bc89687ca954b2a9c614ea75ed28ba3f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_ab1bd1ebca8bb5792a472c0395c03e56b0e8feb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/roney/.android/build-cache/194517249ec883393a6ec1b9ebbb5b524a958356/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_05a1f12cf125874f41d4ea048ee4444e1f481565.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/roney/.android/build-cache/acc2fdfb837020545de688f20c8afebb42f7fb84/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_48170270dd4833d6db262f5d3160960111c07b2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/roney/.android/build-cache/a5d17a095a2ca752ddd78cf04252bc3b236e3638/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf2c4e6607c77b0e671dc5ca252c5ea0d9c1ce0d">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_5ce8d4fdf4fac8fb1eb71f8655e6b10ca4145009.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/roney/.android/build-cache/e0e667028a8b5a89176e4b63e6732de7d2728d0a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518adc52081d41724932b41bc132e4d50a352b86">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_e2596cabd06b463968759f647c384b68c1fd6e14.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/dbba91a44927e542ba049989e68e21515f4e5bb2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d98d6cadd8f23c4a05721bf317b155ef127b1e09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/f9e0acf9632478b32d4b1cfd08228cc6d11694a2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b601ea9a05aa13c313448994e44cf6f0562106ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/roney/.android/build-cache/70156a9646d76fec69764e2e28f580dcf75832b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_a63b38c86493972054f694ee08f9f361cd9cca91.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/18513765ad86509f7f31cd4670fab697fd64ef05/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8db47be01cbe8cfa81e9cecce5ff1371ed1ad95">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3769d0283121292c655967f3c77c2a6759dcc63a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/roney/.android/build-cache/793ac2c33d72ae8bf1451052f24f36eb9da4d48a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_f99450a1477760f34f276f51c42b9fb94fc5cd30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/roney/.android/build-cache/3dde1fe89be463dde2560f51f839f9054f884d80/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_697453689c56a1e1ca555a27f937b75ec0470555.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/3629705b383bd235fc074f4aeae3cc2354ca3f1f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9285fed55740d05cb812ba6834d787bb2b1725c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/6255d7248397ce5aab20a6e898a705d2d19f3b79/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_83a192dd8b5d018628687648d7e089bbf37806c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/roney/.android/build-cache/4aaf9cebcca689c6d40b8731995ab0aa5c26d2d7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90be14317e3f26d18438e8dbf8544500d1dfe07f">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_87d51672ab6742affe10bf0bfe1ef30fd836faea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/roney/.android/build-cache/cc7da4698ccda1e14c25e678347e23952beba06e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_5b57624273a9a629c6b4ea7d6f8f2bc6685fed18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/roney/.android/build-cache/a978502ed992012e5de04d4205d63fc7e806436f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_f01dbeb2633c5430c6d89fd1f51b94f2be0dd631.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/roney/.android/build-cache/584a609b870495c97fc9593b88282319139f7071/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -587,13 +1118,22 @@
         <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_207aba4b55efc728a2e6955316afa18c4946a116.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/roney/.android/build-cache/785ad6a26d0d509005aeeea779b07a482ab622f2/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/ad563c01c9650c0f9c57c424752cab2b0575855b/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="f0e96478ca3147bc588aadb9ae467d85b42473cc">
-        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/pre-dexed/debug/classes_a4a34ca44d414074656c8863028f265aa28c8c40.jar" />
+        sha1="ff9be0a1e75a21c372735930d8987a55b5e6065f">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c5828c5918f73bf00f2dd6d119ca5dbf486507e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roney/.android/build-cache/6e7021153d1c1e1eb118a9a163b0b40bc29f418a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="/home/roney/AndroidStudioProjects/Lero/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_35c90d153dce04df3b8105ed4212538af0d50366/classes.dex" />
     </item>
     <item
         is-multidex="false"
