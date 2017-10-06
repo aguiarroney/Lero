@@ -28,6 +28,8 @@ public class TelaPrincipal extends Activity {
             nome_display = user.getDisplayName();
         }
 
+        // teste merge branch
+
 
         nomeArtista.setText(nome_display);
 
