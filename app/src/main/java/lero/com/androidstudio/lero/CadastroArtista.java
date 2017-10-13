@@ -1,18 +1,11 @@
 package lero.com.androidstudio.lero;
 
 import android.app.Activity;
-import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.Toast;
-
-import com.google.firebase.database.DatabaseReference;
-import com.google.firebase.database.FirebaseDatabase;
-
-import org.w3c.dom.Text;
 
 /**
  * Created by roney on 06/06/17.
@@ -80,7 +73,7 @@ public class CadastroArtista extends Activity{
         Intent i = null;
         Bundle bundle = new Bundle();
         bundle.putString("UID",idUsuario);
-        i = new Intent(CadastroArtista.this,TelaPrincipal.class);
+        i = new Intent(CadastroArtista.this,TelaPrincipalArtista.class);
         i.putExtras(bundle);
         startActivity(i);
     }
